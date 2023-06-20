@@ -1,2 +1,3 @@
-# 3-Modul. Ma'lumotlarga ishlov berish
+# ML-loyiha-quramiz
+
  Datascience sohasida asqotadigan muhim vazifalar.
